@@ -1,7 +1,9 @@
 ### Api_Catálogo_de_Jogos
-### Foi Criada uma API de catálogo de jogos, usando boas práticas de arquitetura com .NET
-#### Esse foi um Projeto prático, realizado no Bootcamp da Digital Innovation One.
-#### Tecnologias utilizada : AspNet core API, Swagger, SqlServer
+    Foi Criada uma API de catálogo de jogos, usando boas práticas de arquitetura com .NET
+    
+    Esse foi um Projeto prático, realizado no Bootcamp da Digital Innovation One.
+    
+    Tecnologias utilizada : AspNet core API, Swagger, SqlServer
  
 #### Implementação de Features Novas, melhorias no projeto inicial: 
 - Criei mensagem personalizada no retorno do Status Code (Put)
